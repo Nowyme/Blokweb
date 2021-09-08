@@ -41,7 +41,7 @@ link naar de website die je gaat namaken óf de naam/omschrijving van je eigen o
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 hier de naam van de pagina  
-<img src="images/helium-home.png" width="375px" alt="Homepagina heliume">
+<img src="images/helium-home.png" width="375px" alt="Homepagina helium">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 hier de naam van de pagina  
