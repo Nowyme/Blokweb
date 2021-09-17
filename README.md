@@ -79,7 +79,7 @@ hier de naam van de pagina
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Html schrijven gaat goed alleen mijn website wordt er veel gewerkt met classes en divs dus ik weet niet wat ik het beste kan doen.  (neem ook screenshots op van delen van je website en code)
 
 
 ### Agenda voor meeting
