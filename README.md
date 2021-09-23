@@ -110,7 +110,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-Ik ben deze week vooral met CSS bezig geweest. Het lukt opzich wel alleen het duurt bij mij lang om precies na te maken. Ik vind wel lastig om zonder div's en classes te stylen en mijn CSS bestand wordt steeds langer waardoor ik steeds moet zoeken waar alles ligt. Misschien moet ik vanaf nu comments plaatsen waar alles voor is..
+Ik ben deze week vooral met CSS bezig geweest. Het lukt opzich wel alleen het duurt bij mij lang om precies na te maken. Ik vind wel lastig om zonder div's en classes te stylen en mijn CSS bestand wordt steeds langer waardoor ik steeds moet zoeken waar alles ligt. Misschien moet ik vanaf nu beter comments plaatsen waar alles voor is..
 Voor nu heb ik alleen 1 probleem met navigatie. Mijn navigatie stopt bij de main alleen ik heb geen idee waarom.
 
 ### Screenshot website tot nu toe:
