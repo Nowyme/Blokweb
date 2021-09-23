@@ -125,7 +125,7 @@ samen met je groepje opstellen
 | ---            | ---                | ---          | ---              |
 | Navigatie en sticky  | Hamburger menu            | en ik dit    | en dan ik dat    |
 | Text breedte | Carousel | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| Table            | ...                | ...          | ...              |
 
 
 ### Verslag van meeting
