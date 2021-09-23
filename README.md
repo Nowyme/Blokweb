@@ -112,8 +112,10 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ### Stand van zaken
 Ik ben deze week vooral met CSS bezig geweest. Het lukt opzich wel alleen het duurt bij mij lang om precies de echte website na te maken. Ik heb nu alleen 1 probleem met navigatie.
 
- Screenshot website tot nu toe:
-<img src="images/helium-usepage.png" width="375px" alt="Usepagina helium">
+### Screenshot website tot nu toe:
+ <img src="images/week3.1.png" width="375px" alt="week3.1">
+ <img src="images/week3.2.png" width="375px" alt="week3.2">
+ <img src="images/week3.3.png" width="375px" alt="week3.3">
 
 ### Agenda voor meeting
 samen met je groepje opstellen
