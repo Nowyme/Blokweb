@@ -61,11 +61,7 @@ hier de naam van de pagina
 ### de hele pagina: 
 <img src="images/breakdown.png" width="375px" alt="breakdown van de hele pagina">
 
-### dynamisch deel (bijv menu): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
-### wellicht nog een dynamisch deel (bijv filter): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
@@ -81,6 +77,8 @@ hier de naam van de pagina
 ### Stand van zaken
 Html schrijven gaat goed alleen mijn website wordt er veel gewerkt met classes en divs dus ik weet niet wat ik het beste kan doen.  (neem ook screenshots op van delen van je website en code)
 
+ 
+ 
 
 ### Agenda voor meeting
 samen met je groepje opstellen
@@ -112,16 +110,18 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik ben deze week vooral met CSS bezig geweest. Het lukt opzich wel alleen het duurt bij mij lang om precies de echte website na te maken. Ik heb nu alleen 1 probleem met navigatie.
 
+ Screenshot website tot nu toe:
+<img src="images/helium-usepage.png" width="375px" alt="Usepagina helium">
 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
+| Nowy      | Julia          | Nicole    | student 4        |
 | ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+| Navigatie en sticky  | Hamburger menu            | en ik dit    | en dan ik dat    |
+| - | Carousel | nog een punt | dit wil ik zeker |
 | ...            | ...                | ...          | ...              |
 
 
