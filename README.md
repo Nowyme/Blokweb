@@ -124,7 +124,7 @@ samen met je groepje opstellen
 | Nowy      | Julia          | Nicole    | student 4        |
 | ---            | ---                | ---          | ---              |
 | Navigatie en sticky  | Hamburger menu            | en ik dit    | en dan ik dat    |
-| - | Carousel | nog een punt | dit wil ik zeker |
+| Text breedte | Carousel | nog een punt | dit wil ik zeker |
 | ...            | ...                | ...          | ...              |
 
 
