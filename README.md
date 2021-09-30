@@ -148,10 +148,12 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken na test in 8e voortgang</summary>
 
 ### Bevindingen
-Lijst met je bevindingen die in de test naar voren kwamen: Navigatie voorlezen ookal is het niet zichtbaar.
- Afbeeldingen anders benoemen om duidelijker te maken.
- Navigatie sluit button doet niet met toetsenbord.
- Links beter maken voor screenreaders.
+Lijst met je bevindingen die in de test naar voren kwamen: 
+ 
+1. Navigatie voorlezen ookal is het niet zichtbaar.
+2. Afbeeldingen anders benoemen om duidelijker te maken.
+3. Navigatie sluit button doet niet met toetsenbord.
+4. Links beter maken voor screenreaders.
 
 
 #### Titel eerste bevinding
