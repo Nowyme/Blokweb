@@ -148,7 +148,11 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken na test in 8e voortgang</summary>
 
 ### Bevindingen
-Lijst met je bevindingen die in de test naar voren kwamen:
+Lijst met je bevindingen die in de test naar voren kwamen: Navigatie voorlezen ookal is het niet zichtbaar.
+ Afbeeldingen anders benoemen om duidelijker te maken.
+ Navigatie sluit button doet niet met toetsenbord.
+ Links beter maken voor screenreaders.
+
 
 #### Titel eerste bevinding
 Hier korte omschrijving (met indien nodig een afbeelding)
@@ -185,15 +189,15 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 <summary>uitwerken voor 3e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Alles gaat goed. Ik ben bijna klaar met mijn eerste pagina. Ik wil nog animaties toevoegen alleen daarvoor moet ik intersection observer gebruiken alleen daar moet ik nog verder in verdiepen. 
 
 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
+| Nowy     | Julia          | student 3    | student 4        |
 | ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
+| Intersection observer | en dit             | en ik dit    | en dan ik dat    |
 | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
 | ...            | ...                | ...          | ...              |
 
