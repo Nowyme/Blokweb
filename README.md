@@ -40,7 +40,7 @@ link naar de website die je gaat namaken óf de naam/omschrijving van je eigen o
  https://www.helium.com/use
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-Dit is de homepage van Helium.com. Ik dit als mijn tweede pagina gekozen.
+Dit is de homepage van Helium.com. Ik heb dit als mijn tweede pagina gekozen.
 <img src="images/homepage.png" width="375px" alt="Homepagina helium">
 
 #### Screenshot(s) van de tweede pagina (small screen):
@@ -60,9 +60,9 @@ Dit is de usepage van Helium.com. Ik ga voor dit scherm het meeste uitwerken.
 
 ### de hele pagina: 
 <img src="images/breakdown.png" width="375px" alt="breakdown van de hele pagina">
-<img src="images/brealdownstep.png" width="375px" alt="breakdown van de hele pagina">
-<img src="images/brealdownform.png" width="375px" alt="breakdown van de hele pagina">  
-<img src="images/brealdownfooter.png" width="375px" alt="breakdown van de hele pagina">
+<img src="images/breakdownstep.png" width="375px" alt="breakdown van de hele pagina">
+<img src="images/breakdownform.png" width="375px" alt="breakdown van de hele pagina">  
+<img src="images/breakdownfooter.png" width="375px" alt="breakdown van de hele pagina">
 
 
 </details>
