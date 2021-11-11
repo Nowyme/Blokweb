@@ -210,10 +210,9 @@ samen met je groepje opstellen
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Observer goed bekijken
+- Animatie toevoegen leuker maakt
+
 
 </details>
 
@@ -227,11 +226,14 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik vond het goed gaan. Ik heb een mooie eindproduct kunnen leveren. Ik vond vooral observer lastig om te gebruiken. Ik heb de stappen gevolgd op developer mozilla maar het lukt steeds niet. 
+Css schrijven ging ook goed met verschillende properties. Ik wil nog dark en light mode toevoegen aan mijn website maar daar was ik nog niet aan toe gekomen. Ik heb wel geprobeerd om meer animatie toe te voegen en states dat op de echte website niet aanwezig om het leuker te maken.
 
 ### Screenshot(s)
 
 hier screenshot(s) van je eindresultaat
+<img src="images/nowyhome.png" width="375px" alt="home">
+<img src="images/nowyuse.png" width="375px" alt="use">
 
 </details>
 
@@ -246,8 +248,11 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
+1. Observer https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver?retiredLocale=nl
+2. Website https://www.helium.com/
+3. Docent Sanne 't Hooft
+4. Studentassistenten Rowin & Younes 
+5. Codepen Sanne https://codepen.io/shooft
+6. Box-shadow https://getcssscan.com/css-box-shadow-examples & https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow
 
 </details>
