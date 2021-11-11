@@ -19,7 +19,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 Nowy Meepho
 
 #### Je startniveau:
-rood/blauw
+rood/zwart
 
 #### Je focus:
 Surface plane
@@ -40,12 +40,12 @@ link naar de website die je gaat namaken óf de naam/omschrijving van je eigen o
  https://www.helium.com/use
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
-<img src="images/helium-home.png" width="375px" alt="Homepagina helium">
+Dit is de homepage van Helium.com. Ik dit als mijn tweede pagina gekozen.
+<img src="images/homepage.png" width="375px" alt="Homepagina helium">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
-<img src="images/helium-usepage.png" width="375px" alt="Usepagina helium">
+Dit is de usepage van Helium.com. Ik ga voor dit scherm het meeste uitwerken.
+<img src="images/usepage.png" width="375px" alt="Usepagina helium">
  
 </details>
 
@@ -60,7 +60,9 @@ hier de naam van de pagina
 
 ### de hele pagina: 
 <img src="images/breakdown.png" width="375px" alt="breakdown van de hele pagina">
-
+<img src="images/brealdownstep.png" width="375px" alt="breakdown van de hele pagina">
+<img src="images/brealdownform.png" width="375px" alt="breakdown van de hele pagina">  
+<img src="images/brealdownfooter.png" width="375px" alt="breakdown van de hele pagina">
 
 
 </details>
