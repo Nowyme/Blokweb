@@ -82,7 +82,7 @@ Dit is de usepage van Helium.com. Ik ga voor dit scherm het meeste uitwerken.
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-Html schrijven gaat goed alleen mijn website wordt er veel gewerkt met classes en divs dus ik weet niet wat ik het beste kan doen.  (neem ook screenshots op van delen van je website en code)
+Ik heb in deze week vooral de html code gescreven en nog niet begonnen met CSS. Ik heb wel netjes verschillende mapjes gemaakt voor foto's, js etc. Ik heb daarnaast ook afbeeldingen verzameld wat ik kon kopieren van de echte website. Uit de breakdown schetsen wist ik ook gelijk welke onderdelen ik wil gaan na maken. 
 
  
  
@@ -90,20 +90,18 @@ Html schrijven gaat goed alleen mijn website wordt er veel gewerkt met classes e
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| Nowy     | Julia         
+| ---            | ---                
+| dit bespreken  | en dit             
+| en dat ook nog | dit als er tijd is 
+| ...            | ...                
 
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Verder aan je website werken en probeer vragen te bedenken voor de volgende feedback sessie.
+
 
 </details>
 
