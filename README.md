@@ -82,7 +82,7 @@ Dit is de usepage van Helium.com. Ik ga voor dit scherm het meeste uitwerken.
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-Ik heb in deze week vooral de html code gescreven en nog niet begonnen met CSS. Ik heb wel netjes verschillende mapjes gemaakt voor foto's, js etc. Ik heb daarnaast ook afbeeldingen verzameld wat ik kon kopieren van de echte website. Uit de breakdown schetsen wist ik ook gelijk welke onderdelen ik wil gaan na maken. 
+Ik heb in deze week vooral de html code geschreven en nog niet begonnen met CSS. Ik heb wel netjes verschillende mapjes gemaakt voor foto's, js etc. Ik heb daarnaast ook afbeeldingen verzameld wat ik kon kopieren van de echte website. Uit de breakdown schetsen wist ik ook gelijk welke onderdelen ik wil gaan maken. 
 
  
  
@@ -92,9 +92,8 @@ samen met je groepje opstellen
 
 | Nowy     | Julia         
 | ---            | ---                
-| dit bespreken  | en dit             
-| en dat ook nog | dit als er tijd is 
-| ...            | ...                
+| Alternatief voor divs | Nog geen vragen           
+              
 
 
 ### Verslag van meeting
@@ -136,10 +135,10 @@ samen met je groepje opstellen
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Text breedte gewoon met with
+- Table opzoeken voorbeelden
+- Navigatie ipv sticky fixed
+- Order van items zodat H2 altijd voor img komt
 
 </details>
 
@@ -161,28 +160,27 @@ Lijst met je bevindingen die in de test naar voren kwamen:
 4. Links beter maken voor screenreaders.
 
 
-#### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel tweede bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+#### Navigatie 
+Screemreader leest navigatie voor ookal is het niet in beeld. 
+Ik heb geen idee hoe dat komt. Ik weet wel dat de navbar er is maar uitbeeld misschien kan je overflow hidden toepassen.
 
 
-#### Titel volgende bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Afbeeldingen. 
+Afbeeldingen omschrijving waren soms niet duidelijk en sommige elementen zijn moeilijk te verwoorden. 
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+Dit kan je oplossen door beter te verwoorden en labeling controls toe te voegen.
 
 
-#### Titel nog een bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Buttons. 
+Buttons en links hebben nog geen states.
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+Verschillende states toevoegen.
+
+
+#### Zichtbeperkingen
+Bij de meeste brillen kan je prima de website lezen. Ik heb het getest en kwam tot conlusie dat het leesbaar is. Bij sommige is het wazig waardoor je moet inzoomen.
+
+Dit kan je oplossen door lettertype groter te maken. 
 
 </details>
 
