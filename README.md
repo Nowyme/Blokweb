@@ -69,7 +69,7 @@ Dit is de usepage van Helium.com. Ik ga voor dit scherm het meeste uitwerken.
 <img src="images/breakdownhome.png" width="375px" alt="breakdown van de hele pagina">  
 
 ### De nav: 
-<img src="images/breakdownnavbare.jpg" width="375px" alt="breakdown van de hele pagina">  
+<img src="images/breakdownnavbar.jpg" width="375px" alt="breakdown van de hele pagina">  
 </details>
 
 
