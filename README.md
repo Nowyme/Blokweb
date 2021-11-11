@@ -54,17 +54,22 @@ Dit is de usepage van Helium.com. Ik ga voor dit scherm het meeste uitwerken.
 
 
 ## Breakdownschets (week 1)
-
+ 
 <details>
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
-### de hele pagina: 
+### De Homepagina: 
 <img src="images/breakdown.png" width="375px" alt="breakdown van de hele pagina">
 <img src="images/breakdownstep.png" width="375px" alt="breakdown van de hele pagina">
 <img src="images/breakdownform.png" width="375px" alt="breakdown van de hele pagina">  
 <img src="images/breakdownfooter.png" width="375px" alt="breakdown van de hele pagina">
 
+### De Usepagina: 
+<img src="images/breakdownhome1.png" width="375px" alt="breakdown van de hele pagina">
+<img src="images/breakdownhome.png" width="375px" alt="breakdown van de hele pagina">  
 
+### De nav: 
+<img src="images/breakdownnavbare.jpg" width="375px" alt="breakdown van de hele pagina">  
 </details>
 
 
